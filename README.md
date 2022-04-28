@@ -1,4 +1,4 @@
-# Demo Git Repo
+ Demo Git Repo
 
 This is the first file in this repo.
 
@@ -8,7 +8,3 @@ vdlskvndkasjbvfbvkjbvkv
 vmklfdanvkjfdabvjkfadbjfdabnkfjda
 vmfdnvjkadfbnvjfkbnjfkdbnvkjfdabav
 
-
-vdlskvndkasjbvfbvkjbvkv
-vmklfdanvkjfdabvjkfadbjfdabnkfjda
-vmfdnvjkadfbnvjfkbnjfkdbnvkjfdabav
